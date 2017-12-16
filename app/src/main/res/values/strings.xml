@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BT3-Nhom31</string>
+    <string name="map_api_key">AIzaSyDMftn6tGuVbAgA3W_vr4hyJVgh6kmst6U</string>
+
+    <string name="hello_world">SMS Sever is stop</string>
+    <string name="action_settings">Settings</string>
+</resources>
